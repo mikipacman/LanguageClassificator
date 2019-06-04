@@ -1,3 +1,6 @@
 .idea/
 notki.txt
 venv/
+build/
+__pycache__/
+LanguageClassificator
